@@ -1,0 +1,36 @@
+2019-10-22 17:30:28
+
+Problem type: GFRCPSP
+----------------------------------
+Precedence network parameters:
+----------------------------------
+Number of activities: 50
+Min number of source activities: 1
+Max number of source activities: 15
+Min number of sink activities: 1
+Max number of sink activities: 15
+Max number of non-redundant predecessor activities: 3
+Max number of non-redundant successors activities: 3
+Order strength: [0.4]
+Degree of redundancy: 0.02 
+Max relative deviation of max time-lags from max duration: 2
+Min proportion of max time-lags: 0.05
+Max proportion of max time-lags: 0.2
+Min number of cycle structures: 1
+Max number of cycle structures: 5
+Min number of nodes per cycle structure: 4
+Max number of nodes per cycle structure: 20
+Cycle structure density parameter: 0.5
+Cycle structure tightness parameter: 0.3
+----------------------------------
+Resource parameters:
+----------------------------------
+Number of resources: 5
+Resource factor (proportion of non-zero resource requirements): 0.75
+Min resource allocation LB: 1
+Max resource allocation LB: 3
+Min resource allocation UB: 3
+Max resource allocation UB: 6
+Min principle resource requirement: 12
+Max principle resource requirement: 40
+Resource strength: [0.05, 0.15, 0.25]
